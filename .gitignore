@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xls
+~$*.xlsm
