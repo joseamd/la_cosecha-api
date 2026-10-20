@@ -72,6 +72,6 @@ Para el front: desde la carpeta `front`, `py -m http.server 5500` y abrir `http:
 - Base de datos: Neon (PostgreSQL)
 - Front: Render (Static Site) desde la carpeta `front`
 
-## Autora
+## Autor
 
-© 2026 Ana Alvarado · Educadora Tech & Desarrolladora Full Stack · linkedin.com/in/ana-alvarado-instructora-full-stack
+© 2026 Alex Muñoz· Desarrollador Full Stack
